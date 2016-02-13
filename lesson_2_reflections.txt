@@ -7,3 +7,9 @@ A .git file is created. It'needed because git needs a repository to work with.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area allows us to finalize what files have to be changed/added before making a commit.
+
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By adding only those files to the staging area that have been modified as part of 1 logical change.
