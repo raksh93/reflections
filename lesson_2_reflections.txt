@@ -31,3 +31,14 @@ The diagrams show a clear relation between different branches and commits and he
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging two branches together results in a single branch that has the final commits of the both previous branches as its parents. Representing it in the given manner makes it easy to visualise the workflow.
+
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros
+-Always doing merges manually can get very tedious
+-It's quick
+
+Cons
+-It can get tedious if there are conflicts
