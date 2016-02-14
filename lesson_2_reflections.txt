@@ -13,3 +13,9 @@ The staging area allows us to finalize what files have to be changed/added befor
 How can you use the staging area to make sure you have one commit per logical change?
 
 By adding only those files to the staging area that have been modified as part of 1 logical change.
+
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are helpful while adding experimental features that may be discarded later.
